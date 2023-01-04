@@ -4,6 +4,7 @@
 In this exercise, bootcampers will familiarize themselves with Unix Commands, Git, and GitHub. 
 
 ## Submission
+**Due Date**: 02-02-2023
 Collect points for this exercise by creating and having the correct contents for the GitHub repo specified in the Instructions. 
 
 ## Instructions
