@@ -23,4 +23,4 @@ This exercise involves setting up your GitHub repo in the BoG Dev Bootcamp Organ
 	- if you edited the file from the terminal, write what command you used to do this in the text file
 12. Stage, commit, and push these changes to GitHub
 
-**Word of advice for future exercises** -> Before starting an exercise, make sure your repo is up-to-date with the main repo. Check by clicking **Sync Fork** and **Update branch** if needed. 
+**Word of advice for future exercises** -> Before starting an exercise, make sure your repo is up-to-date with the main repo. Check by clicking **Sync Fork** and **Update branch** if needed. Then pull the changes to your local repo.
