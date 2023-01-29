@@ -5,6 +5,7 @@ In this exercise, bootcampers will familiarize themselves with Unix Commands, Gi
 
 ## Submission
 Collect points for this exercise by creating and having the correct contents for the GitHub repo specified in the Instructions. 
+- **Due Date**: 02-02-2023
 
 ## Instructions
 This exercise involves setting up your GitHub repo in the BoG Dev Bootcamp Organization. This repo is where you will submit all exercises throughout the bootcamp. 
@@ -23,4 +24,4 @@ This exercise involves setting up your GitHub repo in the BoG Dev Bootcamp Organ
 	- if you edited the file from the terminal, write what command you used to do this in the text file
 12. Stage, commit, and push these changes to GitHub
 
-**Word of advice for future exercises** -> Before starting an exercise, make sure your repo is up-to-date with the main repo. Check by clicking **Sync Fork** and **Update branch** if needed. 
+**Word of advice for future exercises** -> Before starting an exercise, make sure your repo is up-to-date with the main repo. Check by clicking **Sync Fork** and **Update branch** if needed. Then pull the changes to your local repo with `git pull origin main`.
