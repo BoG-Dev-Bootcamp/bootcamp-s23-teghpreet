@@ -5,6 +5,7 @@ Practice the JS fundamentals while creating functions.
 
 ## Submission
 Collect points for this exercise by uploading your solutions file to GitHub and obtaining the right function outputs.
+- **Due Date**: 2-2-23
 
 ## Instructions
 This exercise involves finishing a set of functions to perform specific tasks. When running `functions.js` your code should output what's in the `output.txt` file.
