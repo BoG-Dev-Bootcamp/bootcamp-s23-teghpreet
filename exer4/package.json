@@ -1,0 +1,12 @@
+{
+  "name": "exer4",
+  "version": "1.0.0",
+  "description": "Practice using npm packages, writing async functions, and fetching data from APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC", 
+  "type":"module"
+}
