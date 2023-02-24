@@ -24,7 +24,7 @@ This exercise involves architecting a database based on a fictional prompt and p
 3. Open the `exer5/` folder inside VS Code
 4. Start by installing all required pacakges using `npm install`
 5. Create and setup a new database in your MongoDB Atlas Cluster
-6. In the `exer5/` folder create a file named `.env`. Put the following text in this file:
+6. In the `exer5/` folder create a file named `.env`. Put the following text in this file, but use your MongoDB connection string from Atlas:
 ![dotenv file image](readme_image.png)
 7. You will see a `utils/db.js` file. This file contains a function to establish a connection with the db. You will need to change the **connection url string** to your db url found in MongoDB Atlas. 
 8. You will see a `models` folder. You will put your schema files in here. 
