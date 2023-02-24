@@ -24,10 +24,12 @@ This exercise involves architecting a database based on a fictional prompt and p
 3. Open the `exer5/` folder inside VS Code
 4. Start by installing all required pacakges using `npm install`
 5. Create and setup a new database in your MongoDB Atlas Cluster
-6. You will see a `utils/db.js` file. This file contains a function to establish a connection with the db. You will need to change the **connection url string** to your db url found in MongoDB Atlas. 
-7. You will see a `models` folder. You will put your schema files in here. 
-8. You will see an `operation.js` file. This is where you will write your CRUD operation functions to query the db.
-9. You will see an `index.js` file. This is where the functions you implemented in `operations.js` are called. 
-10. Make sure run `node index.js` and see if your functions are giving you the expected output outlined in the `operations.js` function details. 
-11. Start coding!
-12. You can run your code with the command `node index.js`
+6. In the `exer5/` folder create a file named `.env`. Put the following text in this file:
+![dotenv file image](readme_image.png)
+7. You will see a `utils/db.js` file. This file contains a function to establish a connection with the db. You will need to change the **connection url string** to your db url found in MongoDB Atlas. 
+8. You will see a `models` folder. You will put your schema files in here. 
+9. You will see an `operation.js` file. This is where you will write your CRUD operation functions to query the db.
+10. You will see an `index.js` file. This is where the functions you implemented in `operations.js` are called. 
+11. Make sure run `node index.js` and see if your functions are giving you the expected output outlined in the `operations.js` function details. 
+12. Start coding!
+13. You can run your code with the command `node index.js`
