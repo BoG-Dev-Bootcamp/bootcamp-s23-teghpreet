@@ -11,5 +11,8 @@
   "dependencies": {
     "mongoose": "^6.9.2"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
 }

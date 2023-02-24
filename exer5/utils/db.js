@@ -1,11 +1,15 @@
 import mongoose from "mongoose";
 import Dog from "../models/dog.js"
+import * as dotenv from 'dotenv'
+
+dotenv.config()
+
 
 mongoose.set('strictQuery', false);
 
 const connectDB = async () => {
     try {
-        await mongoose.connect("mongodb://127.0.0.1:27017/bootcamp-test")
+        await mongoose.connect(`${process.env.DB_URL}`)
         await Dog.deleteMany({})
         console.log("Sucessfully connected to the database!")
     } catch (e) {
