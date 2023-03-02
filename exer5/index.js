@@ -1,7 +1,7 @@
 import { connectDB, closeDB } from "./utils/db.js"
 import { readDog, readDogs, createDog, updateDog, deleteDog } from "./operations.js"
 
-connectDB() // function that creates a connection to your db
+await connectDB() // function that creates a connection to your db
 
 // tests - feel free to change these or add more
 const test1 = createDog({ name: "Casey", age: 10, breed: "Pomeranian", dateEnter: Date.now() })
